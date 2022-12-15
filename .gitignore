@@ -1,5 +1,6 @@
 *.tok
 *.txt
+*.spec
 /bin
 /build
 /dist
